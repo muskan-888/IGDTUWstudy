@@ -1,0 +1,42 @@
+.body{
+    margin:0;
+    font-family: 'Lucida Sans';
+}
+
+header{
+    background-image: url(assets/iigdtuw.jpeg);
+    height:300px; 
+    width:auto;
+    background-size: cover;
+}
+.container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+
+footer{
+    background-color: rgba(0, 0, 0, 0.438);
+    
+
+}
+footer p{
+    color:blueviolet;
+}
+footer h2{
+    color:blue;
+}
+
+footer a{
+    color:blueviolet;
+}
+
+.course
+{
+    text-align: center;
+    padding:20px;
+}
+img 
+{
+    border-radius: 50%;
+}
